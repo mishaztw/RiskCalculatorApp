@@ -16,3 +16,7 @@
 - Windows Forms
 - WinForms.DataVisualization
 - Visual Studio 2022
+
+
+скрин:
+<img width="898" height="606" alt="image" src="https://github.com/user-attachments/assets/cd5a4dd2-92a2-4971-928c-d897224fd405" />
